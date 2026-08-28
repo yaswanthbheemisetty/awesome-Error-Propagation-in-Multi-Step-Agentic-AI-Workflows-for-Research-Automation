@@ -22,10 +22,6 @@ Agentic AI workflows use Large Language Models (LLMs) to perform complex researc
 Error propagation in multi-step agentic AI workflows refers to the accumulation and cascading of incorrect information, tool failures, hallucinations, or flawed reasoning throughout an AI pipeline. Understanding these failure patterns is essential for developing reliable, self-correcting, and trustworthy AI systems capable of supporting automated scientific discovery.
 ## AI-Assisted Research Paper
 
-AI Tools for Research | GitHub Awesome Repository Activity
-
-Student Instruction Sheet | Page 8
-
 [View Paper](paper/AI_Assisted_Research_Paper.pdf)
 ## Survey Papers
 - ...

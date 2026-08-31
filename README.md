@@ -120,4 +120,9 @@ This section provides tutorials and practical resources for understanding and im
 ## Citation Integrity Audit
 [View Audit](citation-audit/Citation_Integrity_Audit.pdf)
 ## License
-...
+
+This project is released under the **MIT License**, a permissive open-source license that allows others to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software.
+
+The license requires that the original copyright notice and permission notice are included with substantial portions of the software.
+
+See the [LICENSE](LICENSE) file for the complete license text.

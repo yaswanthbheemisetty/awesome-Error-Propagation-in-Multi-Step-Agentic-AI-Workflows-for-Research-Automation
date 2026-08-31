@@ -24,7 +24,7 @@ Error propagation in multi-step agentic AI workflows refers to the accumulation 
 
 [View Paper](paper/AI_Assisted_Research_Paper.pdf)
 ## Survey Papers
-## Survey Papers
+
 
 - [LLM Agents: A Survey](https://arxiv.org/) — A comprehensive survey of large language model-based agents, covering planning, memory, tool use, reasoning, and multi-agent systems.
 - [LLM-Based Multi-Agent Orchestration: A Survey of Frameworks, Communication Protocols, and Emerging Patterns](https://www.mdpi.com/1999-5903/18/6/326) — Survey of multi-agent orchestration architectures, communication protocols, coordination mechanisms, and emerging agentic patterns.
@@ -103,7 +103,9 @@ The implementation focuses on:
 - Analyzing workflow reliability and cascading failures.
 - Providing experimental code, datasets, and supporting resources for reproducible research.
 
-The repository is organized to make it easier to reproduce experiments, analyze agent behavior, and extend the proposed error-propagation framework.## Tutorials
+The repository is organized to make it easier to reproduce experiments, analyze agent behavior, and extend the proposed error-propagation framework.
+
+## Tutorials
 
 This section provides tutorials and practical resources for understanding and implementing multi-step agentic AI workflows, error detection, verification, and failure recovery.
 
